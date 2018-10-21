@@ -2,8 +2,6 @@
 
 This is the official python version of the Behavior3 library, originally written in Javascript.
 
-- Info: http://behavior3.com
-
 NOTE: this version still lacks specific documentation, but almost everything you need can be dig from the javascript-version.
 
 
